@@ -11,6 +11,9 @@ times*
 # Interne Anleitung – gehört nicht ins öffentliche Repository
 VEROEFFENTLICHEN.md
 
+# Arbeitsanweisungen für Claude – gehen niemanden außer den Betreuer etwas an.
+CLAUDE.md
+
 # Vault-Anbindung – enthält Pfade, Kunden- und Projektnummern.
 CLAUDE.local.md
 
